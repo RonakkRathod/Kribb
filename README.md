@@ -1,8 +1,3 @@
-# React Native Full Course 2026 - Build Kribb (Full Stack App for IOS and Android)
-### https://youtu.be/WSppuT4A09Y
-<img width="960" height="540" alt="1" src="https://github.com/user-attachments/assets/f38d2b84-38a1-4d7e-964c-9225258de2ac" />
-
-
 ## Get started
 
 1. Install dependencies
@@ -17,12 +12,6 @@
    npx expo start -c
    ```
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 ## Supabase Queries
 
